@@ -1,6 +1,6 @@
 1 2 3
 
-Tema 1 - Scirtocea Bianca-Ioana 331CB
+Scirtocea Bianca-Ioana 331CB
 
 #Task  1 - Tabela de comutare
 In cadrul acestui task, am implementat pas cu pas pseudocodul din enunt, la care am adaugat functia de is_unicast. Aceasta functie imparte adresa mac in bucati in functie de unde este pozitionat ':', pe urma ia cel mai semnificativ byte in format int si verifica daca era setat cu 0 si atunci este unicast.
